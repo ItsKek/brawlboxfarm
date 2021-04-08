@@ -1,1 +1,1 @@
-worker node ./src/selfbot.js
+worker: start.bat
